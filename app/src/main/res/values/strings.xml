@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MADLabexam2</string>
+    <string name="btnsignup">Sign up</string>
+    <string name="btnsignin">Sign in</string>
+    <string name="btnnewone">Create new one</string>
+    <string name="btnman">#</string>
+    <string name="btnfood">Beef Burger</string>
+    <string name="btncart">#</string>
+    <string name="btnfavourite">#</string>
+    <string name="btnprofile">#</string>
+    <string name="back4">#</string>
+    <string name="back5">#</string>
+    <string name="back6">#</string>
+    <string name="back7">#</string>
+    <string name="btnadd">Add to cart</string>
+</resources>
